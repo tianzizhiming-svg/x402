@@ -61,6 +61,7 @@ The x402 ecosystem is growing! Check out our [ecosystem page](https://x402.org/e
 
 - Client-side integrations
 - Services and endpoints
+- - **AgentBridge (CUEI)**: [Visit Site](https://tianzizhiming-svg.github.io/agentbridge/) - Professional data service for Chinese Higher Education reports. Pay-per-call via x402 on Base.
 - Ecosystem infrastructure and tooling
 - Learning and community resources
 
