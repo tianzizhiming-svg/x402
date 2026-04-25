@@ -1,0 +1,7 @@
+{
+  "name": "AgentBridge",
+  "description": "Chinese web proxy for AI Agents. Access Zhihu, Weibo, Sspai and more via x402 on Base. Pay per request in USDC — no subscriptions, no API keys required.",
+  "logoUrl": "/logos/agentbridge.png",
+  "websiteUrl": "https://api.060504.shop",
+  "category": "Services/Endpoints"
+}
