@@ -111,3 +111,21 @@ python main.py simple
 ```
 
 The payment wrapper is a lightweight function that adds payment verification and settlement to individual tool handlers.
+
+
+---
+
+## Real-World Examples
+
+### AgentBridge Atlas — Machine Commerce for China-Facing AI Agents
+
+A production MCP server providing China-facing digital capabilities via x402 payments on Base chain. No API keys, no subscriptions — agents pay per call and get a result.
+
+- **Repository**: [tianzizhiming-svg/agentbridge](https://github.com/tianzizhiming-svg/agentbridge)
+- **Live API**: [api.060504.shop](https://api.060504.shop)
+- **What it demonstrates**:
+  - Two capability categories: `raw-content` (unverified, machine-fetched, $0.003–$0.008) and `verified-analysis` (human-authored, decision-grade, $90)
+  - Bazaar discovery extension with dynamic route parameters
+  - OpenAPI + MCP + x402 triple integration
+  - Production deployment with real payment settlement on Base mainnet
+- **MCP tools**: `discover_capabilities`, `get_capability_info`, `purchase_capability`
